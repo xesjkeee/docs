@@ -29,7 +29,7 @@ Slidev использует многофункциональный markdown-фа
 
 Slidev разработан благодаря набору этих инструментов и технологий.
 
-- [Vite](https://vitejs.dev) - Чрезвыйчайно быстрый инструмент frontend разработки.
+- [Vite](https://vitejs.dev) - Чрезвычайно быстрый инструмент frontend разработки.
 - [Vue 3](https://v3.vuejs.org/) на основе [Markdown](https://daringfireball.net/projects/markdown/syntax) - Фокусировка на контенте, при этом используя всю мощность HTML и Vue компонентов в любом месте.
 - [Windi CSS](https://github.com/windicss/windicss) - CSS-фреймворк на основе utility-классов, позволяет легко стилизовать слайды.
 - [Prism](https://github.com/PrismJS/prism), [Shiki](https://github.com/shikijs/shiki), [Monaco Editor](https://github.com/Microsoft/monaco-editor) - Первоклассная поддержка фрагментов кода с возможностью live-кодинг.
